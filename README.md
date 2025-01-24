@@ -11,4 +11,7 @@ This website contain four sections :
     2-  Shapes
     3-  About
     4-  Contact
+
+## Video shows the content of this page :
+![Video shows the content of this page](./theShow.mp4)
     
