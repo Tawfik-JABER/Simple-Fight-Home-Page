@@ -12,6 +12,6 @@ This website contain four sections :
     3-  About
     4-  Contact
 
-## Video shows the content of this page :
-![Video shows the content of this page](./theShow.mp4)
+## Demo Preview for the content of this landing page :
+![Demo GIF](./theShow.gif)
     
