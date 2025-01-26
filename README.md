@@ -1,5 +1,5 @@
 # Simple Fight Home Page
-A landing page talking about combat sports, I created it using :
+A Responsive landing page talking about combat sports, I created it using :
 
     1-  HTML
     1-  CSS
