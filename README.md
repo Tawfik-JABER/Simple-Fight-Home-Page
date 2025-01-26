@@ -1,4 +1,4 @@
-# Simple Fight Home Page
+# Fight Home Page
 A Responsive landing page talking about combat sports, I created it using :
 
     1-  HTML
